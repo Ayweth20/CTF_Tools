@@ -8,4 +8,5 @@
   - Binwalk
   - Foremost
   - Strings
-- <a href="https://stegonline.georgeom.net/upload" target="_blank">**StegOnline**</a>
+- [**StegOnline**](https://stegonline.georgeom.net/upload) : Mainly for visual steganography
+- [**Steganography Online**](https://stylesuxx.github.io/steganography/) : For LSB steganography
