@@ -1,1 +1,10 @@
-In this section you will find various steganography tools.
+# Images
+- **Aperisolve** : A very useful tool that allows you to do a lot of things :
+  - Visual steganography
+  - Zsteg
+  - Steghide
+  - Outguess
+  - ExifTool
+  - Binwalk
+  - Foremost
+  - Strings
