@@ -8,4 +8,4 @@
   - Binwalk
   - Foremost
   - Strings
-- [**StegOnline**](https://stegonline.georgeom.net/upload) :
+- <a href="https://stegonline.georgeom.net/upload" target="_blank">**StegOnline**</a>
