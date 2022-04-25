@@ -1,4 +1,4 @@
-# Steganography  
+# Steganography tools
 
 Here are only the main tools used for steganography, the ones that are used the most. There are of course plenty of them, but these tools are, in a way, the basis for becoming a steganography master.
 
