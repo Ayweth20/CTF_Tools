@@ -14,6 +14,9 @@ Here are only the main tools used for steganography, the ones that are used the 
 - [**Steganography Online**](https://stylesuxx.github.io/steganography/) : For LSB steganography
 - [**StegSolve**](https://github.com/zardus/ctf-tools/tree/master/stegsolve) : Also for visual steganography, combine or xor images and so on...
 - [**Convert**](http://www.imagemagick.org/script/convert.php) : Convert images b/w formats and apply filters
+- [**PixRecovery**](https://online.officerecovery.com/fr/pixrecovery/) : Again, this is a very useful tool. This one allows you to repair different types of corrupted images (JPEG/JPG, GIF, TIFF, BMP, PNG or RAW). [This](https://online.officerecovery.com/fr/) is also the version that repairs any type of damaged file.
+- [**Hexed.it**](https://hexed.it/) : Here is a hexadecimal editor. With this tool you can view the contents of a file, as well as modify it. It is very intuitive and the interface is qualitative.
+- [**CodePen**](https://codepen.io/abdhass/full/jdRNdj) : This tool allows you to convert from hexadecimal to an image (very useful).
 
 # Audio
 - [**Audacity**](https://www.01net.com/telecharger/windows/Multimedia/edition_audio/fiches/telecharger-19762.html) : A very useful tool for audio steganography (spectrogram, audio spectrum,...)
