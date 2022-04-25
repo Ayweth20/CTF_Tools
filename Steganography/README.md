@@ -10,7 +10,8 @@
   - Strings
 - [**StegOnline**](https://stegonline.georgeom.net/upload) : Mainly for visual steganography
 - [**Steganography Online**](https://stylesuxx.github.io/steganography/) : For LSB steganography
-- [**StegSolve**](https://github.com/zardus/ctf-tools/tree/master/stegsolve) : Also for visual steganography, combine or xor images and so on
+- [**StegSolve**](https://github.com/zardus/ctf-tools/tree/master/stegsolve) : Also for visual steganography, combine or xor images and so on...
+- [**Convert**](http://www.imagemagick.org/script/convert.php) : Convert images b/w formats and apply filters
 
 # Audio
 - [**Audacity**](https://www.01net.com/telecharger/windows/Multimedia/edition_audio/fiches/telecharger-19762.html) : A very useful tool for audio steganography (spectrogram, audio spectrum,...)
