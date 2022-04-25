@@ -1,3 +1,5 @@
+Here are only the main tools used for steganography, the ones that are used the most. There are of course plenty of them, but these tools are, in a way, the basis for becoming a steganography master.
+
 # Images
 - [**Aperisolve**](https://aperisolve.fr/) : A very useful tool that allows you to do a lot of things :
   - Visual steganography
