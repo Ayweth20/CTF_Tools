@@ -7,3 +7,6 @@ In a CTF context, "Forensics" challenges can include file format analysis, stega
 
 ## Disk Image reconstruction
 1) [FTK Imager](https://www.exterro.com/ftk-imager) : Very nice tool to rebuild Disk Images
+
+## Network packet capture analysis
+1) The best in the game : [Wireshark !](https://www.wireshark.org/)
