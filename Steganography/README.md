@@ -30,3 +30,6 @@ Here are only the main tools used for steganography, the ones that are used the 
 - [**GNU Radio**](https://wiki.gnuradio.org/index.php/InstallingGR) : It would be a good tool, but you have to know how to use it...
 - [**Universal Radio Hacker**](https://github.com/jopohl/urh) : It is a very good tool for signals
 - [**Morse Decoder**](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) : An online tool that is sometimes useful when you have to deal with morse.
+
+## Others
+- [**TweakPNG**](http://entropymine.com/jason/tweakpng/) : This tool is particularly suitable for the APNG format.
