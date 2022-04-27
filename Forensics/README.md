@@ -10,3 +10,4 @@ In a CTF context, "Forensics" challenges can include file format analysis, stega
 
 ## Network packet capture analysis
 - The best in the game : [Wireshark !](https://www.wireshark.org/)
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) : Is an open source Network Forensic Analysis Tool that can parse PCAP files for off-line analysis and to regenerate/reassemble transmitted files and certificates from PCAP files. It can also extract password hashes found in packets and a lot more !
