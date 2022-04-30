@@ -22,6 +22,7 @@ Here are only the main tools used for steganography, the ones that are used the 
 - [**QRazyBox**](https://merricx.github.io/qrazybox/) : This tool is useful for qr codes and for repairing them.
 - [**Aspose**](https://products.aspose.app/barcode/fr/recognize/qr) : This tool allows you to read the content of a qr code online.
 - [**Stegsnow**](http://manpages.ubuntu.com/manpages/bionic/man1/stegsnow.1.html) : This tool allows you to decode whitespace hidden in text.
+- [**Inlite**](https://online-barcode-reader.inliteresearch.com/) : This tool is very useful because it allows you to read several types of qr code online.
 
 ## Audio
 - [**Audacity**](https://www.01net.com/telecharger/windows/Multimedia/edition_audio/fiches/telecharger-19762.html) : A very useful tool for audio steganography (spectrogram, audio spectrum,...).
