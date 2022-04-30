@@ -6,3 +6,4 @@
 - [**RsaCtfTool**](https://github.com/Ganapati/RsaCtfTool) : One of the most useful tools (if not the most useful) for deciphering the RSA. It is very easy to use and to install and allows a lot of things: generate a public/private key, retrieve the parameters of a key,...
 - [**Base64decode**](https://www.base64decode.org/) : This tool is particularly useful for decrypting base64 and especially for decrypting encrypted files.
 - [**CrackStation**](https://crackstation.net/) : This tool allows you to decrypt a hash online.
+- [**Morse Decoder**](https://morsedecoder.com/) : This is the best tool for Morse code translation.
