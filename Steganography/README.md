@@ -33,4 +33,4 @@ Here are only the main tools used for steganography, the ones that are used the 
 - [**Morse Decoder**](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) : An online tool that is sometimes useful when you have to deal with morse.
 
 ## Others
-- [**TweakPNG**](http://entropymine.com/jason/tweakpng/) : This tool is particularly suitable for the APNG format.
+- [**TweakPNG**](http://entropymine.com/jason/tweakpng/) : This tool is particularly suitable for the APNG format or to extract PNG chunks.
