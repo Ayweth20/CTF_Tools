@@ -7,3 +7,4 @@
 - [**Base64decode**](https://www.base64decode.org/) : This tool is particularly useful for decrypting base64 and especially for decrypting encrypted files.
 - [**CrackStation**](https://crackstation.net/) : This tool allows you to decrypt a hash online.
 - [**Morse Decoder**](https://morsedecoder.com/) : This is the best tool for Morse code translation.
+- [**RSHack**](https://github.com/zweisamkeit/RSHack) : This tool is very helpful because it offers several things, including various useful attacks.
